@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "commander": "6.2.1",
-    "execa": "4.1.0",
+    "execa": "5.0.0",
     "globby": "11.0.2",
     "pacote": "11.3.0"
   },
