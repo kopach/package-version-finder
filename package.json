@@ -30,7 +30,7 @@
     "postshrinkwrap": "lockfix"
   },
   "dependencies": {
-    "commander": "6.2.1",
+    "commander": "10.0.1",
     "execa": "4.1.0",
     "globby": "11.1.0",
     "pacote": "11.3.5"
